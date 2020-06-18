@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b633dbde-c0f5-4221-94b7-43e95df876ae" name="Default Changelist" comment="" />
+    <list default="true" id="b633dbde-c0f5-4221-94b7-43e95df876ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dUIOLY0PdgsHx2Lz4gkMsjFsiU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -106,25 +114,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="396" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1592474250322" />
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1592477736528">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1592516618383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592477736528" />
-    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1592477736528">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592516618383" />
+    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1592516618383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592477736528" />
-    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1592477736528">
+    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592516618383" />
+    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1592516618383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592477736528" />
-    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1592477736528">
+    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592516618383" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1592516618383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592477736528" />
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1592512884758">
+    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592516618383" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1592516523545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592512884758" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592516523545" />
   </component>
 </project>

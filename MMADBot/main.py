@@ -6,9 +6,6 @@ from tqdm import tqdm
 from sklearn.utils import shuffle
 from data.twitter import data
 from tensorlayer.models.seq2seq import Seq2seq
-from tensorlayer.models.seq2seq_with_attention import Seq2seqLuongAttention
-import os
-
 
 def initial_setup(data_corpus):
     metadata, idx_q, idx_a = data.load_data(PATH='data/{}/'.format(data_corpus))

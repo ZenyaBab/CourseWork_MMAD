@@ -100,8 +100,6 @@ def inference(seed, top_n):
         return sentence
 
 
-
-
 if __name__ == "__main__":
     init()
     app = QtWidgets.QApplication([])
